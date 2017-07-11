@@ -1,10 +1,26 @@
 {
   "meta": {
     "username": "mdietz",
-    "repositoryName": "blog",
+    "repositoryName": "blog.mdietz.org",
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://mdietz.github.io/blog.mdietz.org",
+    "hubpress": "https://mdietz.github.io/blog.mdietz.org",
+    "theme": "//mdietz.github.io/blog.mdietz.org/themes/casper",
+    "images": "https://mdietz.github.io/blog.mdietz.org/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
