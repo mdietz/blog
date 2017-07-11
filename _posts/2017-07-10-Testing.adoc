@@ -1,0 +1,7 @@
+= Testing
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-07-10
+:hp-tags: Blog,
+
+Hello world.
